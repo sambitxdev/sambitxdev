@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambitxdev&show_icons=true&locale=en" alt="sambitxdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitxdev&" alt="sambitxdev" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sambitxdev&theme=neon&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
