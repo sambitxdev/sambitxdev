@@ -23,6 +23,5 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambitxdev&show_icons=true&locale=en&layout=compact" alt="sambitxdev"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambitxdev&show_icons=true&locale=en" alt="sambitxdev" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sambitxdev&show_icons=true&theme=neon&hide_border=true&border_radius=0)
 [![GitHub Streak](https://streak-stats.demolab.com?user=sambitxdev&theme=neon&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
