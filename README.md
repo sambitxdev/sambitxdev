@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumarsambit000@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
