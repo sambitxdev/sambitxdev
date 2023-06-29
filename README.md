@@ -1,7 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://sambitxdev.io)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=lucida+console&size=30&pause=1000&color=00FFB0&width=435&lines=Sambit+Kumar+Sahoo;Front-End+Developer)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpvM3cyNmczcG9nZzgwZTM0cWVpaGoxbjZ2YXptd2pmanU2cHg4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xyMUWYcPQCUrdzCecz/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambitxdev&label=Profile%20views&color=0e75b6&style=flat" alt="sambitxdev" /> </p>
 
